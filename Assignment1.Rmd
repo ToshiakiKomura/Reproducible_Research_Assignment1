@@ -1,4 +1,4 @@
-#Assessment 1
+#Assessment 1 Toshiaki Komura
 
 ```{r, echo=FALSE, results='hide', warning=FALSE, message=FALSE}
 library(ggplot2)
